@@ -1,5 +1,11 @@
 # Todo App
 
+## Running This Implementation
+
+`go run main.go`
+
+... more to come - tests, linting, a Makefile!
+
 ## Goal
 
 Create an cli application for managing tasks in the terminal.
