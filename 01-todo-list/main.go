@@ -1,6 +1,5 @@
 /*
 Copyright © 2025 Sean Kennedy <seanpk@outlook.com>
-
 */
 package main
 
@@ -11,6 +10,6 @@ import (
 )
 
 func main() {
-	log.Println("Do it!\n")
+	log.Println("Do it!")
 	cmd.Execute()
 }
